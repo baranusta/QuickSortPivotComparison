@@ -1,0 +1,10 @@
+
+Pick First initially ordered array:  0.00129197
+Pick First initially reverse ordered array:  0.00133323
+Pick First initially random array:  0.000197859
+Pick First initially ordered array:  0.00126271
+Pick First initially reverse ordered array:  0.00130982
+Pick First initially random array:  0.000186737
+Pick First initially ordered array:  0.000186894
+Pick First initially reverse ordered array:  0.000173688
+Pick First initially random array:  0.000171676
